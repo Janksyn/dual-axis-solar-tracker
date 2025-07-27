@@ -83,8 +83,8 @@ Adjust the following constants in the code to match your setup and location:
 
 * **`latitude` and `longitude`:** Set these to your exact geographical coordinates.
     ```cpp
-    double latitude = -23.3045; // Londrina, Brazil
-    double longitude = -51.1696; // Londrina, Brazil
+    double latitude =00.0000;
+    double longitude = 00.0000:
     ```
 * **`UTC_OFFSET`:** Your local UTC offset in hours.
     ```cpp
